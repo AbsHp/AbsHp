@@ -15,10 +15,12 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhinavsinghal53/)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/singhal_abhi_53/)
 <br>
+---
 
-<br />
-tr>
+<table style="width:100%">
+  <tr>
     <th><img src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide_border=true&hide=issues&theme=radical" /></th>
     <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsHp&layout=compact&theme=radical&langs_count=6" /></th>
   </tr>
-</a>
+</table>
+<br>
