@@ -1,4 +1,4 @@
-### Hi there, I'm Abhinav Singhal 👋
+### Hey, I'm Abhinav! 👋
 
 <!--
 **AbsHp/AbsHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
