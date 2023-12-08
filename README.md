@@ -1,16 +1,23 @@
 ### Hey, I'm Abhinav! 👋
 
-<!--
-**AbsHp/AbsHp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Junior Undergraduate Student, Department of Mechanical Engineering, IIT Kanpur
+- 🔭 Organizing and Conducting events as the Coordinator of Astronomy Club, IITK.
+- 💞️ I'd love to work on projects that suit my interests :).
+- 📫 You can reach me through my mail - [asinghal21@iitk.ac.in](mailto:asinghal21@iitk.ac.in) (Alternalte Email ID - [singhalabhi53@gmail.com](mailto:singhalabhi53@gmail.com))
+- ⚡ Fun fact: I love Pokemon and Harry Potter.
+- 🏑 I like playing sports like Field Hockey, Cricket etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhinavsinghal53/)
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/singhal_abhi_53/)
+<br>
+
+<br />
+tr>
+    <th><img src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide_border=true&hide=issues&theme=radical" /></th>
+    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsHp&layout=compact&theme=radical&langs_count=6" /></th>
+  </tr>
+</a>
