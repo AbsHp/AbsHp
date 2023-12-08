@@ -17,10 +17,8 @@
 <br>
 ---
 
-<table style="width:100%">
-  <tr>
-    <th><img src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide_border=true&hide=issues&theme=radical" /></th>
-    <th><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsHp&layout=compact&theme=radical&langs_count=6" /></th>
-  </tr>
-</table>
+<a>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide_border=true&hide=issues&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsHp&layout=compact&theme=radical&langs_count=6"/>
+</a>
 <br>
