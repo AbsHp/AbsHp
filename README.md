@@ -6,7 +6,7 @@
 - 🔭 Organizing and Conducting events as the Coordinator of Astronomy Club, IITK.
 - 🌱 I'm currently interested in HTML, CSS and JavaScript (Web Development).
 - 💞️ I'd love to work on projects that suit my interests :).
-- 📫 You can reach me through my mail - [asinghal21@iitk.ac.in](mailto:asinghal21@iitk.ac.in) (Alternalte Email ID - [singhalabhi53@gmail.com](mailto:singhalabhi53@gmail.com))
+- 📫 You can reach me through my mail - [asinghal21@iitk.ac.in](mailto:asinghal21@iitk.ac.in) (Alternate Email ID - [singhalabhi53@gmail.com](mailto:singhalabhi53@gmail.com))
 - ⚡ Fun fact: I love Pokemon and Harry Potter.
 - 🏑 I like playing sports like Field Hockey, Cricket etc.
 
