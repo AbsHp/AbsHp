@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 Junior Undergraduate Student, Department of Mechanical Engineering, IIT Kanpur
+- 🎓 Senior Undergraduate Student, Department of Mechanical Engineering, IIT Kanpur
 - 🔭 Organizing and Conducting events as the Coordinator of Astronomy Club, IITK.
 - 🌱 I'm currently interested in HTML, CSS and JavaScript (Web Development).
 - 💞️ I'd love to work on projects that suit my interests :).
