@@ -17,6 +17,6 @@
 <br>
 ---
 
-<a href="https://github.com/AbsHp"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide_border=true&hide=issues&theme=radical"/></a>
+<a href="https://github.com/AbsHp"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbsHp&show_icons=true&hide=issues&theme=radical"/></a>
 <a href="https://github.com/AbsHp"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbsHp&layout=compact&theme=radical&langs_count=6&vertical-align=center"/></a>
 <br>
